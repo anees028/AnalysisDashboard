@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { useStructures } from '../hooks/useStructures';
 import { GradeChart } from '../Components/dashboard/GradeChart';
 import {StructureTable} from '../Components/dashboard/StructureTable';
+import Footer from '../Components/Footer/Footer';
 
 const DashboardPage = () => {
   const { t, i18n } = useTranslation();
@@ -81,6 +82,7 @@ const DashboardPage = () => {
 
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
