@@ -1,0 +1,18 @@
+{
+  "loading": "Loading data...",
+  "error": "Failed to load data.",
+  "title": "Infrastructure Analysis (Building Inspection)",
+  "searchPlaceholder": "Search building...",
+  "kpis": {
+    "count": "Count",
+    "avgGrade": "Average Grade"
+  },
+  "visualization": "Condition Visualization",
+  "table": {
+    "id": "ID",
+    "building": "Building",
+    "area": "Area (m²)",
+    "grade": "Grade",
+    "status": "Status"
+  }
+}

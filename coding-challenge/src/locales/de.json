@@ -1,0 +1,18 @@
+{
+  "loading": "Daten werden geladen...",
+  "error": "Fehler beim Laden der Daten.",
+  "title": "Infrastruktur-Analyse (Bauwerksprüfung)",
+  "searchPlaceholder": "Bauwerk suchen...",
+  "kpis": {
+    "count": "Anzahl",
+    "avgGrade": "Ø Note"
+  },
+  "visualization": "Zustands-Visualisierung",
+  "table": {
+    "id": "ID",
+    "building": "Bauwerk",
+    "area": "Fläche (m²)",
+    "grade": "Note",
+    "status": "Status"
+  }
+}
